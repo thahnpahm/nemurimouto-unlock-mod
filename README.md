@@ -2,6 +2,8 @@
 
 Patcher cho `Assembly-CSharp.dll` của Nemurimouto (Unity 6000.3.18f1, bản `win_b`), viết bằng [Mono.Cecil](https://github.com/jbevain/cecil). Repo không chứa file nào của game: patcher sửa trực tiếp bản game của người chơi.
 
+Chi tiết phân tích (cấu trúc game, file save, công thức, lý do chọn từng điểm patch): [docs/REA-NOTES.md](docs/REA-NOTES.md).
+
 ## Mod thay đổi gì
 | Hàm gốc | Sau khi patch |
 |---|---|
